@@ -3,7 +3,7 @@
 const galleryPhotos = [
   {src:"assets/images/sample-01.svg",title:"The water around us",description:"Where does our everyday water come from?",category:"challenge",author:"Tine"},
   {src:"assets/images/sample-02.svg",title:"Litter on the shore",description:"Waste that ends up in rivers and lakes harms wildlife.",category:"challenge",author:"Dan"},
-  {src:"assets/images/sample-03.svg",title:"Murky water",description:"Polluted water carries less oxygen for fish.",category:"challenge",author:"Tine"},
+  {src:"images/IMG_0639.jpeg",title:"Murky water",description:"Polluted water carries less oxygen for fish.",category:"challenge",author:"Tine"},
   {src:"assets/images/sample-04.svg",title:"Every drop counts",description:"How much clean drinking water do we really use?",category:"challenge",author:"Dan"},
   {src:"assets/images/sample-05.svg",title:"A glass of clean water",description:"Safe drinking water is the basis of good health.",category:"solutions",author:"Tine"},
   {src:"assets/images/sample-06.svg",title:"Reusable bottles",description:"Reusing bottles keeps plastic out of nature.",category:"solutions",author:"Dan"},
