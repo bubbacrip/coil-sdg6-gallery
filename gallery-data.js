@@ -1,6 +1,6 @@
 // EDIT THIS FILE. For each photo write only the file name (file:"photo.jpg").
 // The folder is set once here: change it if your photos are in another folder.
-const IMAGE_FOLDER = "assets/images/";
+const IMAGE_FOLDER = "images/";
 // category must be "challenge", "solutions" or "behind"
 const galleryPhotos = [
   {file:"IMG_20250714_154420.jpg",title:"Clean, clear sea",description:"A wide bay in southern Italy where the water looks bright and clean. This is what we want to protect.",category:"solutions",author:"Tine & Dan"},
