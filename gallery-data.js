@@ -9,7 +9,7 @@ const galleryPhotos = [
   {file:"IMG_0639.jpeg",title:"Rain fills the pond",description:"Rainwater collects in a garden pond. Catching and reusing rainwater is one way to save drinking water.",category:"solutions",author:"Tine & Dan"},
   {file:"IMG_20250717_182602.jpg",title:"A busy bay in summer",description:"Many people share this beach and sea, so everyone\u2019s habits affect how clean the water stays.",category:"challenge",author:"Tine & Dan"},
   {file:"gallery-1494955076-plastic.jpg",title:"Plastic on the shore",description:"Plastic waste washed up on a beach. Litter that reaches rivers and seas stays in nature for a very long time and harms wildlife.",category:"challenge",author:"an online source"},
-  {file:"",title:"Photographing a glass of water",description:"Setting up a shot for our video about clean drinking water.",category:"behind",author:"Tine & Dan"},
+  {file:"IMG_0653.jpg",title:"Photographing a glass of water",description:"Setting up a shot for our video about clean drinking water.",category:"behind",author:"Tine & Dan"},
   {file:"IMG_20250717_185831.jpg",title:"Life by the sea",description:"A town and its beach on the coast of southern Italy. People here depend on clean sea water.",category:"challenge",author:"Tine & Dan"},
   {file:"IMG_20250720_133017.jpg",title:"Turquoise water",description:"Clear, turquoise water along a crowded beach in southern Italy. Healthy water supports people and nature.",category:"solutions",author:"Tine & Dan"},
   {file:"IMG_20260817_134748.jpg",title:"Crystal-clear sea cave",description:"Clean water lets sunlight reach the bottom, so plants and fish can live here.",category:"solutions",author:"Tine & Dan"}
